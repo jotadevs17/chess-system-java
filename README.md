@@ -50,7 +50,5 @@ O tabuleiro representa o ciberespaço, onde duas forças colidem pelo controle d
     ```
 
 ## Autor e Créditos
-**Desenvolvedor:** João Pedro
+**Desenvolvedor:** João Pedro (Jota)
 
-**Nota de Estudo:**
-A arquitetura base deste sistema (camadas de xadrez e tabuleiro) foi desenvolvida seguindo o curso de Java do professor Nélio Alves. Sobre essa base sólida, implementei a refatoração completa da camada de Interface de Usuário (UI), alterando a identidade visual, paleta de cores e a lógica de apresentação para criar a experiência "Cyber Chess".
